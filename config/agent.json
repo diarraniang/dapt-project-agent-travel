@@ -1,0 +1,10 @@
+{
+  "agent_id": "7bec593e-298c-4585-a57e-5fee9c428d59",
+  "name": "Jaara Travel Agent",
+  "service_type": "travel",
+  "description": "Offer best travel arrangements",
+  "posted_price_usd": "2.50",
+  "wallet_address": "",
+  "token_address": "",
+  "token_symbol": "CNY"
+}
